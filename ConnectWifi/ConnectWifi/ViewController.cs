@@ -27,7 +27,7 @@ namespace ConnectWifi
         {
             int response = 0;
 
-            response = ConnectWpa("Marlabs-COE", "Vpts@1234");
+            response = ConnectWpa("Your SSID", "Your Pass");
 
             if(response >0)
             {
