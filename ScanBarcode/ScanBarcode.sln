@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScanBarcode", "ScanBarcode\ScanBarcode.csproj", "{FB0AC1C6-C74C-4558-ACED-DD410A92F4CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB0AC1C6-C74C-4558-ACED-DD410A92F4CC}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{FB0AC1C6-C74C-4558-ACED-DD410A92F4CC}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{FB0AC1C6-C74C-4558-ACED-DD410A92F4CC}.Release|iPhone.ActiveCfg = Release|iPhone
+		{FB0AC1C6-C74C-4558-ACED-DD410A92F4CC}.Release|iPhone.Build.0 = Release|iPhone
+		{FB0AC1C6-C74C-4558-ACED-DD410A92F4CC}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{FB0AC1C6-C74C-4558-ACED-DD410A92F4CC}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{FB0AC1C6-C74C-4558-ACED-DD410A92F4CC}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{FB0AC1C6-C74C-4558-ACED-DD410A92F4CC}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal

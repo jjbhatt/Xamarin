@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{316B7B4F-4818-46CE-B1CC-708819239C68}|Default">
+  <MonoDevelop.Ide.ItemProperties.Battery automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.FD74BA9E-42BB-45BF-A002-E6E0BCA4A299" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Battery/Main.storyboard">
+    <Files>
+      <File FileName="Battery/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="Battery/ViewController.cs" Line="51" Column="1" />
+      <File FileName="Battery/Main.storyboard" />
+      <File FileName="Battery/Info.plist" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
